@@ -2,7 +2,9 @@
 
 - To build the container.
 
-docker build -t ubuntu/devops:v1 
+cd to cloned directory
+
+docker build -t ubuntu/devops:v1 .
 
 - To start the container.
 
